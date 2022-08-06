@@ -1,1 +1,1 @@
-# MINIMANYGame
+# 🐈 고양이스타그램 🐈
